@@ -3,7 +3,7 @@ title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: arxiv
 order: 2
-date: "2025"
+date: 2025-01-01
 year: "2025"
 venue: "arXiv"
 permalink: /publications/perception-bottleneck-vlm-chart-understanding/
