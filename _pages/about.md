@@ -43,7 +43,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 
 ## Publications
 
-A complete, sorted publication list is available on the [Publications](/publications/) page. My publications are also listed below.
+A complete, sorted publication list is available on the [Publications](publications/) page. My publications are also listed below.
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (arXiv, 2025) — First author.
    - Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
